@@ -1,0 +1,74 @@
+
+
+The cards are divided into many categories: unit, spells, equipments
+
+Card rarity: all cards are divided in to 5 classes:
+1.iron cards: are most common cards, players initially have some of them to start the adventure. Packs normally contain more iron rarity cards 
+2.bronze cards: are popular cards that every pack has one for sure.
+3.silver cards: rare cards, also powerful and often important in the battle.
+4.gold cards: unique cards, each card may be held only 1 copy per type in the game and In the collection. Really strong 
+5.diamond cards: super rare cards, each player insert maximum 2 cards for each deck
+
+
+Description of details and specifications of every cards :
+
+For units:
+Name; mana cost(m), attack value(a), health points(h),
+Card rarity 
+Unit type (M for melee,R for range,F for flying)
+Card function description 
+
+For spells:
+Card name, mana cost, function description 
+
+
+
+Unit Cards?
+
+units follow the regulations of functionalities below, but many units can breakthrough limit and unlock another function(after player can switch one with other), satisfying conditions (collecting rune stones)
+
+
+1.unit cards are divided in melee, ranged, air classification. Ranged units attack without counterattack. only flying units can attack flying units but receive counterattack damages. Hero can attack flying unit. The melee units have the highest life. 
+
+2.Unit cards cannot attack when summoned . Need to wait 1 turn except with reveal function. Unit may carry some trickery. Unit may have many functions:    1.reveal means the actions when the unit enter in battlefield.   2.Epitaph means the function happens when unit dies.   3.chant means when player spell a magic, the unit would do something.   4.aura gives friends positive increases or negative effects to enemies or gives continued special effects.  5. Magic immunity   6. Death touch:when attacks enemy unit, kill it.  8. beginning or end of every turn unit has some action. 9. Glory: when hero use skills. 10. Unity: when other units use their skills. 11. Hide cannot be targeted by attacks and targeting spells.  12. Quick: unit can attack when is summoned.  14. Penetrate: attack 2 enemies in the same way. 15. Swipe: attack the front enemy and 2 enemies beside. 16. Cover: effect activates when enemies attack other friend units.  17. Evasion: % evades enemy's attacks. 18. Critical hit: % double damage enemy.19. Rebirth means when unit die, it rebirth 1 time. 20. Life drain: your hero will get life equal damage your unit deal
+
+3.Unit Status: 1. basic status increase or decrease. 2. silenced means clean all the status and card functions before get silence status, but can receive and carry other status. 3. Spell damage increase, spell damage decrease.  4. Iced: can't do anything but may be dispersed.6. Shield: be invulnerable for 1 time damaging action.  7. Phantom:  can't be attacked. 8. Taunt means enemy must first attack taunt units.
+
+
+Spell cards
+
+Spell cards consume mana to be played.
+Damage spells, changing status spells, transformation spells and trickery or trap spells can be carried on units. Draw or choose cards or weather spells are game function spells. 
+All spells are active when they are played except trickery and traps. Those spells when played are carried on units or on heroes. They will be active when enemy do some specific actions.
+
+
+Equipment cards(expansion contents
+
+The equipment cards are divided in weapons ,armors and artifacts.
+
+1.Weapons and armors are cards that players cannot insert to decks and cannot be used during the game. Weapon and armor cards increase the player's status or may have other functions. They have slots to contain each status, example:
+Dragon fang blade(diamond      rarity ):
+Lvl1 Basic status?3% gain 2 armor when attack enemy. 5% penetration 
+Slot1: critical +15%
+Slot2: swipe +18%
+Slot3: life drain +1
+Slot4: attack +1
+Slot5: silence +10%
+
+Cursed armor (silver rarity)
+Lvl1 basic status: 3% evasion, 3%  damage reflection
+Slot1: +5 health 
+Slot2: gain +1 armor when damaged by spells 
+Slot3: every turn get 1 damage 
+
+2.Weapons and armors can be upgraded to increase basic status, description is in "forge"article of game mode and control panel section.
+
+3.The w&a cards are divided in 5 rarity: iron, bronze, silver, gold, diamond. Each rarity depends on number of slots in the object. Iron rarity items have 1 slot while bronze have 2 and so on.
+
+4.Some items have all slots fully filled. Some not, they have random number of empty slots. 
+
+5.To fill up the
+
+
+
+2.Artifacts can be played in the game as card form. To play these cards and equip them need consume mana. They can be destroyed or replaced. Artifacts have passive effects.
